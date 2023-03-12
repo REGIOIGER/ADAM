@@ -22,3 +22,4 @@ With the help of the [HoverGames drone kit](https://www.nxp.com/design/designs/n
 Each cattle will be equipped with an RX LoRa Low Power device, which whill send periodically the GPS data in order to know its specific location. This device should not need constant charging and will deply useful information about its state.
 
 The drone will include an RX and TX transmitter, collecting all the data from each asset and deploying it to the closest ground station, sending the location and status of the asset.
+![WhatsApp Image 2023-03-07 at 7 30 53 PM](https://user-images.githubusercontent.com/96195073/224570259-7133acdd-2119-450c-98be-5cf7ee4f5517.jpeg)
